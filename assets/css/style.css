@@ -1,0 +1,9 @@
+.flex-r {
+  justify-content: flex-end;
+}
+.btn-request {
+  line-height: 14px;
+  height: 40px;
+  margin: 0;
+  border-radius: 20px;
+}

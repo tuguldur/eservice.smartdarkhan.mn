@@ -1,0 +1,13 @@
+This update will be workable if the installed version is 1.2.0
+
+Updated Inclueds.
+- Update issue on MySql latest version.
+- Update FAQ toggel issue on IE.
+- Bug improvement.
+
+How to upload.
+1. Log in to your cPanel. Open File Manager.
+2. Open the folder where your running script is located.
+3. Upload the update_knowledgebase_121.zip file from knowledgebase/update/1.2.0 to 1.2.1/update_knowledgebase_121.zip which is downloaded
+from CodeCanyon to your server where your script is running.
+4. Extract the zip file in the root directory of the running script.
